@@ -1,4 +1,4 @@
-(defproject prt "0.1.7"
+(defproject prt "0.1.7-alpha1-SNAPSHOT"
   :description "FIXME: write description"
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"
