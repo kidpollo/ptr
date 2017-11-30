@@ -1,6 +1,6 @@
 (ns prt.core)
 
 (defn foo
-  "baz"
+  "bazd"
   [x]
   (println x "Hello, World!"))
